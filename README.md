@@ -1,9 +1,7 @@
-## Merhaba Ben Sena Gençalp! 
-
-
 
 <h1 align="center">Merhaba, Ben Sena,</h1>
-<h3 align="center">FullStack Web Developer</h3>
+<h3 align="center">Mekatronik Mühendisliği mezunuyum. Şuan Web FullStack developer olarak kendimi geliştiriyorum. </h3>
+<h3> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senagencalp&label=Profile%20views&color=0e75b6&style=flat" alt="senagencalp" /> </p>
 
